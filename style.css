@@ -1,0 +1,33 @@
+body{
+    background: url(/png/event_bg.jpg);
+    box-sizing: border-box;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0px 0px 0px 350px;
+}
+.biografy{
+background-color: cornsilk;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+}
+.parametr{
+    padding: 0px 0px 0px 50px;
+}
+h1{
+font-size: 75px;
+}
+.ebalo{
+    border-radius: 100%;
+    width: 120px;
+    top: 43%;
+    left: 44%;
+    transform: translate(1000px,-200px);
+    -webkit-transform: translate(1000px,-200px);
+}
+.citata{
+    box-sizing: border-box;
+    max-width: 350px;
+    font-size: 18px;
+    font-style: oblique;
+    margin: -200px 0px 0 900px;
+}
